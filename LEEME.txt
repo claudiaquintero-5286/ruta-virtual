@@ -1,0 +1,16 @@
+RUTA VITAL - VERSION LOCAL
+
+Opcion recomendada:
+1. Haz doble clic en "Iniciar Ruta Vital.cmd".
+2. Se abrira la pagina en http://localhost:8080/.
+3. La ventana tambien mostrara la IP local para abrirla desde otro equipo de la misma red.
+4. No cierres la ventana negra mientras estes usando la pagina.
+5. Para detener el servidor, presiona Ctrl+C o cierra la ventana.
+
+Opcion directa:
+- Haz doble clic en "Abrir Index.cmd" para abrir index.html sin servidor.
+
+Importante:
+- Los pacientes de demostracion se guardan solamente en el navegador utilizado.
+- No ingreses datos clinicos reales ni informacion sensible.
+- Si Windows pregunta por acceso de red, permitelo solo para redes privadas de confianza.
